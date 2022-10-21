@@ -28,7 +28,7 @@
   * [Official website](https://hacktoberfest.digitalocean.com/)
 
 
-<h1 align=center> How to Contribute 🤔 </h1>
+<h1 align=center> How to Contribute🤔 </h1>
 
 You can contribute by adding new scripts, improving current scripts or Documentation. Here are some Instructions before making a Pull Request
 
